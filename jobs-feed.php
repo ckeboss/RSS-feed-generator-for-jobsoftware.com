@@ -73,9 +73,3 @@ class Parser {
 		
 	}
 }
-
-$parser = new Parser('http://jobs.tech.co/jobroll/v1');
-
-$jobs = $parser->getJobs(10, false, false);
-
-print_r($jobs);
