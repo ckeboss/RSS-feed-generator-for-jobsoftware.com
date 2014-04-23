@@ -7,6 +7,6 @@ Instuctions
 -------
 - Download/clone into any directory.
 - Run composer install to download dependencies
--- If you haven't hear of composer, where have you been?
+	- If you haven't hear of composer, where have you been?
 - Look at example to see what you can do
 - Fork and submit pull requests with improvements
